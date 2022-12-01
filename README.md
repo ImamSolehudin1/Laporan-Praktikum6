@@ -7,7 +7,7 @@
 
 # TUGAS !
 
-![Gambar] (Screenshot/Soal.jpg)
+![Gambar](Screenshot/Soal.jpg)
 
 - Buat abstract class BangunDatar dan lengkapi programnya sesuai diagram class tersebut.
 
